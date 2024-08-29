@@ -1,0 +1,177 @@
+body{
+    background-color: rgb(169, 220, 240);
+}
+.fa{
+    font-size: 15px;
+    margin-left: 10px;
+}
+.media{
+    margin-left: 570px;
+}
+li{
+    text-decoration: none;
+    list-style-type: none;
+    margin-right: -10px;
+    background-color: black;
+    color: white;
+    font-size: 5px;
+    padding: 10px;
+    width: 15px;
+    border-radius: 50%;
+}
+.reach{
+    margin-top: -10px;
+    display: flex;
+    margin-left: 50px;
+}
+h2{
+    margin-left: 50px;
+    margin-top: 10px;
+    color: rgb(80, 7, 252);
+}
+.head{
+    margin-top: -10px;
+    height: 50px;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    display: flex;
+    z-index: 1;
+}
+.module{
+    margin-top: 15px;
+    margin-left: 250px;
+}
+a{
+    text-decoration: none;
+    margin-left: 20PX;
+    color: black;
+}
+.maincontent{
+    color: white;
+    margin-left: 50px;
+    padding: 50px;
+}
+.photo{
+    background-image: url(/images/wp5121779-anime-4k-pc-wallpapers.jpg);
+    background-size: cover;
+    height: 400px;
+    width:100%;
+    position: relative;
+}
+.start{
+    background-color: rgb(13, 165, 225);
+    border-radius: 20px;
+    color: white;
+    border: 0;
+    padding: 10px;
+}
+.box{
+    height: 280px;
+    width: 900px;
+    background-color: white;
+    position: absolute;
+    top: 460px;
+    left: 180px;
+    
+}
+#fa{
+    font-size: 40px; 
+    background-color: sienna; 
+    padding: 5px; 
+    width: 40px; 
+    border-radius: 50%;
+     margin-top: 10px; 
+     color: aqua;
+}
+.div1{
+    width: 300px;
+    margin-right: 600px;
+    padding-top: 60px;
+    text-align: justify;
+    padding-left: 50px;
+}
+.div2{
+    display: flex;
+    margin-left: 400px;
+    margin-top: -180px;
+    font-size: 15px;
+    line-height: 30px;
+}
+.exp{
+    margin-top: 280px;
+    color: black;
+}
+.contentbox{
+    margin-top: 80px;
+}
+.cbox1{
+    display: flex;
+}
+.cbox2{
+    display: flex;
+}
+.cbox{
+    height: 200px;
+    width: 300px;
+    border-bottom: 1px solid rgb(244, 90, 90);
+    border-width: 5px;
+    line-height: 25px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 50px;
+    padding: 10px;
+}
+.projects{
+    margin-top: 50px;
+}
+.imgcontent{
+    margin-top: 50px;
+}
+.image{
+    margin-top: 50px;
+}
+img{
+    margin: 20px;
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+}
+.contact{
+    margin-top: 50px;
+}
+input{
+    margin-top: 20px;
+    width: 300px;
+    height: 30px;
+}
+textarea{
+    margin-top: 30px; 
+    padding: 5px;
+}
+#send{
+    padding: 5px; 
+    background-color: rgb(249, 62, 62); 
+    color: white; 
+    margin-top: 20px;
+    font-size: 15px;
+}
+#myBtn{
+    position: fixed;
+    bottom: 2px;
+    margin-top: 30px;
+    margin-left: 1045px;
+    border-radius:30px;
+    padding: 10px;
+    font-size:24px
+ 
+}
+hr{
+    width: 100px; 
+    margin-top: -10px;
+}
+#design{
+    font-size: 40px; 
+    color: aqua;
+}
